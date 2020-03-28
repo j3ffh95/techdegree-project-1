@@ -77,12 +77,12 @@ header .profile-image {
   margin-top: 50px;
   width: 150px;
   height: 150px;
-  border-radius: 50%;
+  border-radius: 30%;
   border: 3px solid #f7f5ef;
   transition: all 0.5s;
 }
 header .profile-image:hover {
-  transform: scale(1.2) rotate(5deg);
+  transform: scale(1.2) rotate(360deg);
 }
 .tag {
   background-color: #98c5e9;
@@ -90,7 +90,7 @@ header .profile-image:hover {
   padding: 10px;
   border-radius: 5px;
   display: table;
-  margin: 10px auto;
+  margin: 7% auto;
 }
 .location {
   background-color: #f7f5ef;
